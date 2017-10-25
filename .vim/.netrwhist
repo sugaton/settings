@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/suga/Workspace/RA/hyouka/inga_hyouka/for_crf/templates'
+let g:netrw_dirhist_2='/Users/suga/Workspace/RA/hyouka/inga_hyouka/for_crf/matome/code'
+let g:netrw_dirhist_3='/Users/suga/Workspace/RA/hyouka/inga_hyouka/scripts/crf'
+let g:netrw_dirhist_4='/Users/suga/Workspace/RA/hyouka/inga_hyouka/for_crf'
